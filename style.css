@@ -1,0 +1,30 @@
+body{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: #111;
+    padding:0 !important;
+    margin: 0;
+}
+.container{
+    margin:0;
+    padding: 1em;
+}
+
+button{
+    border: none;
+    padding: 0.5em 1em;
+    font-weight: 600;
+    background-color: #111;
+    color: white;
+    border-radius: 5px;
+}
+
+.dark{
+    background-color: #111;
+    color: white;
+}
+
+.btn-dark{
+    color: #111;
+    background-color: white;
+}
