@@ -1,35 +1,38 @@
-body{
-    font-family: Helvetica, Arial, sans-serif;
-    font-size: 18px;
-    color: #111;
-    padding:0 !important;
-    margin: 0;
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  color: #111;
+  padding: 0 !important;
+  margin: 0;
 }
-p{
-    line-height: 1.4em;
+p {
+  line-height: 1.4em;
 }
-.container{
-    margin:0 auto;
-    padding: 1em;
-    /* background-color: red; */
-    max-width: 65ch;
-}
-
-button{
-    border: none;
-    padding: 0.5em 1em;
-    font-weight: 600;
-    background-color: #111;
-    color: white;
-    border-radius: 5px;
+.container {
+  margin: 0 auto;
+  padding: 1em;
+  /* background-color: red; */
+  max-width: 65ch;
 }
 
-.dark{
-    background-color: #111;
-    color: white;
+button {
+  border: none;
+  padding: 0.5em 1em;
+  font-weight: 600;
+  background-color: #111;
+  color: white;
+  border-radius: 5px;
 }
 
-#btn{
-    height: 32px;
-    width: 32px;
+.dark {
+  background-color: #111;
+  color: white;
+}
+
+#btn {
+  height: 32px;
+  width: 32px;
+}
+a {
+  color: #e11d48;
 }
